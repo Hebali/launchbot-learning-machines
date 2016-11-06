@@ -1,0 +1,1 @@
+**Note**: This directory is used to store temporary data and will be ignored by git. Please see the .gitignore file to change this setting.
